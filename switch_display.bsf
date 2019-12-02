@@ -1,0 +1,183 @@
+/*
+WARNING: Do NOT edit the input and output ports in this file in a text
+editor if you plan to continue editing the block that represents it in
+the Block Editor! File corruption is VERY likely to occur.
+*/
+/*
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+*/
+(header "symbol" (version "1.2"))
+(symbol
+	(rect 16 16 184 304)
+	(text "switch_display" (rect 5 0 91 14)(font "Arial" (font_size 8)))
+	(text "inst" (rect 8 272 25 284)(font "Arial" ))
+	(port
+		(pt 0 32)
+		(input)
+		(text "a_sw1_display" (rect 0 0 87 14)(font "Arial" (font_size 8)))
+		(text "a_sw1_display" (rect 21 27 108 41)(font "Arial" (font_size 8)))
+		(line (pt 0 32)(pt 16 32))
+	)
+	(port
+		(pt 0 48)
+		(input)
+		(text "a_sw0_display" (rect 0 0 87 14)(font "Arial" (font_size 8)))
+		(text "a_sw0_display" (rect 21 43 108 57)(font "Arial" (font_size 8)))
+		(line (pt 0 48)(pt 16 48))
+	)
+	(port
+		(pt 0 64)
+		(input)
+		(text "b_sw1_display" (rect 0 0 87 14)(font "Arial" (font_size 8)))
+		(text "b_sw1_display" (rect 21 59 108 73)(font "Arial" (font_size 8)))
+		(line (pt 0 64)(pt 16 64))
+	)
+	(port
+		(pt 0 80)
+		(input)
+		(text "b_sw0_display" (rect 0 0 87 14)(font "Arial" (font_size 8)))
+		(text "b_sw0_display" (rect 21 75 108 89)(font "Arial" (font_size 8)))
+		(line (pt 0 80)(pt 16 80))
+	)
+	(port
+		(pt 0 96)
+		(input)
+		(text "c_sw1_display" (rect 0 0 87 14)(font "Arial" (font_size 8)))
+		(text "c_sw1_display" (rect 21 91 108 105)(font "Arial" (font_size 8)))
+		(line (pt 0 96)(pt 16 96))
+	)
+	(port
+		(pt 0 112)
+		(input)
+		(text "c_sw0_display" (rect 0 0 87 14)(font "Arial" (font_size 8)))
+		(text "c_sw0_display" (rect 21 107 108 121)(font "Arial" (font_size 8)))
+		(line (pt 0 112)(pt 16 112))
+	)
+	(port
+		(pt 0 128)
+		(input)
+		(text "d_sw1_display" (rect 0 0 87 14)(font "Arial" (font_size 8)))
+		(text "d_sw1_display" (rect 21 123 108 137)(font "Arial" (font_size 8)))
+		(line (pt 0 128)(pt 16 128))
+	)
+	(port
+		(pt 0 144)
+		(input)
+		(text "d_sw0_display" (rect 0 0 87 14)(font "Arial" (font_size 8)))
+		(text "d_sw0_display" (rect 21 139 108 153)(font "Arial" (font_size 8)))
+		(line (pt 0 144)(pt 16 144))
+	)
+	(port
+		(pt 0 160)
+		(input)
+		(text "e_sw1_display" (rect 0 0 87 14)(font "Arial" (font_size 8)))
+		(text "e_sw1_display" (rect 21 155 108 169)(font "Arial" (font_size 8)))
+		(line (pt 0 160)(pt 16 160))
+	)
+	(port
+		(pt 0 176)
+		(input)
+		(text "e_sw0_display" (rect 0 0 87 14)(font "Arial" (font_size 8)))
+		(text "e_sw0_display" (rect 21 171 108 185)(font "Arial" (font_size 8)))
+		(line (pt 0 176)(pt 16 176))
+	)
+	(port
+		(pt 0 192)
+		(input)
+		(text "f_sw1_display" (rect 0 0 84 14)(font "Arial" (font_size 8)))
+		(text "f_sw1_display" (rect 21 187 105 201)(font "Arial" (font_size 8)))
+		(line (pt 0 192)(pt 16 192))
+	)
+	(port
+		(pt 0 208)
+		(input)
+		(text "f_sw0_display" (rect 0 0 84 14)(font "Arial" (font_size 8)))
+		(text "f_sw0_display" (rect 21 203 105 217)(font "Arial" (font_size 8)))
+		(line (pt 0 208)(pt 16 208))
+	)
+	(port
+		(pt 0 224)
+		(input)
+		(text "g_sw1_display" (rect 0 0 87 14)(font "Arial" (font_size 8)))
+		(text "g_sw1_display" (rect 21 219 108 233)(font "Arial" (font_size 8)))
+		(line (pt 0 224)(pt 16 224))
+	)
+	(port
+		(pt 0 240)
+		(input)
+		(text "g_sw0_display" (rect 0 0 87 14)(font "Arial" (font_size 8)))
+		(text "g_sw0_display" (rect 21 235 108 249)(font "Arial" (font_size 8)))
+		(line (pt 0 240)(pt 16 240))
+	)
+	(port
+		(pt 0 256)
+		(input)
+		(text "switch" (rect 0 0 38 14)(font "Arial" (font_size 8)))
+		(text "switch" (rect 21 251 59 265)(font "Arial" (font_size 8)))
+		(line (pt 0 256)(pt 16 256))
+	)
+	(port
+		(pt 168 32)
+		(output)
+		(text "ASW" (rect 0 0 29 14)(font "Arial" (font_size 8)))
+		(text "ASW" (rect 118 27 147 41)(font "Arial" (font_size 8)))
+		(line (pt 168 32)(pt 152 32))
+	)
+	(port
+		(pt 168 48)
+		(output)
+		(text "BSW" (rect 0 0 28 14)(font "Arial" (font_size 8)))
+		(text "BSW" (rect 119 43 147 57)(font "Arial" (font_size 8)))
+		(line (pt 168 48)(pt 152 48))
+	)
+	(port
+		(pt 168 64)
+		(output)
+		(text "CSW" (rect 0 0 28 14)(font "Arial" (font_size 8)))
+		(text "CSW" (rect 119 59 147 73)(font "Arial" (font_size 8)))
+		(line (pt 168 64)(pt 152 64))
+	)
+	(port
+		(pt 168 80)
+		(output)
+		(text "DSW" (rect 0 0 28 14)(font "Arial" (font_size 8)))
+		(text "DSW" (rect 119 75 147 89)(font "Arial" (font_size 8)))
+		(line (pt 168 80)(pt 152 80))
+	)
+	(port
+		(pt 168 96)
+		(output)
+		(text "ESW" (rect 0 0 27 14)(font "Arial" (font_size 8)))
+		(text "ESW" (rect 120 91 147 105)(font "Arial" (font_size 8)))
+		(line (pt 168 96)(pt 152 96))
+	)
+	(port
+		(pt 168 112)
+		(output)
+		(text "FSW" (rect 0 0 27 14)(font "Arial" (font_size 8)))
+		(text "FSW" (rect 120 107 147 121)(font "Arial" (font_size 8)))
+		(line (pt 168 112)(pt 152 112))
+	)
+	(port
+		(pt 168 128)
+		(output)
+		(text "GSW" (rect 0 0 29 14)(font "Arial" (font_size 8)))
+		(text "GSW" (rect 118 123 147 137)(font "Arial" (font_size 8)))
+		(line (pt 168 128)(pt 152 128))
+	)
+	(drawing
+		(rectangle (rect 16 16 152 272))
+	)
+)
