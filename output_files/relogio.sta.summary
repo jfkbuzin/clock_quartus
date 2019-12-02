@@ -1,0 +1,221 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'ck_placa'
+Slack : -3.599
+TNS   : -90.751
+
+Type  : Slow 1200mV 85C Model Setup 'inst4'
+Slack : -2.020
+TNS   : -3.517
+
+Type  : Slow 1200mV 85C Model Setup 'inst6'
+Slack : -1.708
+TNS   : -3.056
+
+Type  : Slow 1200mV 85C Model Setup 'delay:inst1|inst37'
+Slack : -1.533
+TNS   : -50.725
+
+Type  : Slow 1200mV 85C Model Setup 'delay:inst1|inst12'
+Slack : -1.412
+TNS   : -4.235
+
+Type  : Slow 1200mV 85C Model Setup 'delay:inst1|lpm_counter0:inst14|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.742
+TNS   : -1.977
+
+Type  : Slow 1200mV 85C Model Hold 'ck_placa'
+Slack : -1.612
+TNS   : -3.052
+
+Type  : Slow 1200mV 85C Model Hold 'delay:inst1|inst37'
+Slack : -0.323
+TNS   : -2.361
+
+Type  : Slow 1200mV 85C Model Hold 'delay:inst1|lpm_counter0:inst14|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'delay:inst1|inst12'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst6'
+Slack : 1.521
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst4'
+Slack : 1.865
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ck_placa'
+Slack : -3.000
+TNS   : -37.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'delay:inst1|inst37'
+Slack : -1.000
+TNS   : -48.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'delay:inst1|lpm_counter0:inst14|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'delay:inst1|inst12'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst4'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst6'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 0C Model Setup 'ck_placa'
+Slack : -3.072
+TNS   : -76.905
+
+Type  : Slow 1200mV 0C Model Setup 'inst4'
+Slack : -1.753
+TNS   : -2.961
+
+Type  : Slow 1200mV 0C Model Setup 'inst6'
+Slack : -1.404
+TNS   : -2.482
+
+Type  : Slow 1200mV 0C Model Setup 'delay:inst1|inst37'
+Slack : -1.343
+TNS   : -43.198
+
+Type  : Slow 1200mV 0C Model Setup 'delay:inst1|inst12'
+Slack : -1.214
+TNS   : -3.642
+
+Type  : Slow 1200mV 0C Model Setup 'delay:inst1|lpm_counter0:inst14|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.522
+TNS   : -1.204
+
+Type  : Slow 1200mV 0C Model Hold 'ck_placa'
+Slack : -1.492
+TNS   : -3.148
+
+Type  : Slow 1200mV 0C Model Hold 'delay:inst1|inst37'
+Slack : -0.244
+TNS   : -1.779
+
+Type  : Slow 1200mV 0C Model Hold 'delay:inst1|lpm_counter0:inst14|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.020
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'delay:inst1|inst12'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst6'
+Slack : 1.346
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst4'
+Slack : 1.669
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ck_placa'
+Slack : -3.000
+TNS   : -37.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'delay:inst1|inst37'
+Slack : -1.000
+TNS   : -48.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'delay:inst1|lpm_counter0:inst14|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'delay:inst1|inst12'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst4'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst6'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Setup 'ck_placa'
+Slack : -1.611
+TNS   : -39.468
+
+Type  : Fast 1200mV 0C Model Setup 'inst4'
+Slack : -0.810
+TNS   : -1.277
+
+Type  : Fast 1200mV 0C Model Setup 'inst6'
+Slack : -0.583
+TNS   : -0.977
+
+Type  : Fast 1200mV 0C Model Setup 'delay:inst1|inst37'
+Slack : -0.461
+TNS   : -13.186
+
+Type  : Fast 1200mV 0C Model Setup 'delay:inst1|inst12'
+Slack : -0.404
+TNS   : -1.211
+
+Type  : Fast 1200mV 0C Model Setup 'delay:inst1|lpm_counter0:inst14|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.015
+TNS   : -0.015
+
+Type  : Fast 1200mV 0C Model Hold 'ck_placa'
+Slack : -0.997
+TNS   : -4.215
+
+Type  : Fast 1200mV 0C Model Hold 'delay:inst1|inst37'
+Slack : -0.318
+TNS   : -2.850
+
+Type  : Fast 1200mV 0C Model Hold 'delay:inst1|lpm_counter0:inst14|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.051
+TNS   : -0.051
+
+Type  : Fast 1200mV 0C Model Hold 'delay:inst1|inst12'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst6'
+Slack : 0.909
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst4'
+Slack : 1.079
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ck_placa'
+Slack : -3.000
+TNS   : -38.870
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'delay:inst1|inst37'
+Slack : -1.000
+TNS   : -48.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'delay:inst1|lpm_counter0:inst14|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'delay:inst1|inst12'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst4'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst6'
+Slack : -1.000
+TNS   : -2.000
+
+------------------------------------------------------------
